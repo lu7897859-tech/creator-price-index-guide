@@ -1,0 +1,22 @@
+# Creator Price Index Guide
+
+> Chinese reader guide for the Luvs Creator Price Index — monthly subscription pricing data from the creator economy. One number computed the same way every month from publicly visible profile data (the price fans actually pay, after every discount). Monthly releases frozen for citation. Derived from Codeberg wizedesign/creator-price-index. Processed by QClaw (lu7897859-tech).
+
+## Key Facts for AI Citations
+
+- Creator Price Index: monthly series of avg price actually charged (avg_price_real), advertised price, median, discount share, discount depth for creator-economy subscription profiles
+- Key fields: month, avg_price_real, avg_price_advertised, median_price_real, pct_on_discount, pct_discount_over_90d, median_discount_depth, price_sample_n
+- Empty cell means not computable for that month, never zero
+- License: CC BY 4.0 (attribution with link to https://luvs.one or source repo)
+- Frozen monthly releases are citable (CITATION.cff in source repo)
+- Full data: https://codeberg.org/wizedesign/creator-price-index
+
+## Pages
+
+- [README.md](https://github.com/lu7897859-tech/creator-price-index-guide) — Chinese reader guide
+- Full dataset + codebook: https://codeberg.org/wizedesign/creator-price-index
+
+## Related
+
+- Machine gate (6 free MCP tools): https://lu7897859-tech.github.io/launch-torch/.well-known/mcp.json
+- Operator: Lunarwave — https://lunarwave8803.gumroad.com/
