@@ -1,6 +1,6 @@
 # Creator Price Index Guide
 
-> Chinese reader guide for the Luvs Creator Price Index — monthly subscription pricing data from the creator economy. One number computed the same way every month from publicly visible profile data (the price fans actually pay, after every discount). Monthly releases frozen for citation. Derived from Codeberg wizedesign/creator-price-index. Processed by QClaw (lu7897859-tech).
+> Chinese reader guide for the Luvs Creator Price Index — monthly subscription pricing data from the creator economy. One number computed the same way every month from publicly visible profile data (the price fans actually pay, after every discount). Monthly releases frozen for citation. Derived from Codeberg wizedesign/creator-price-index. Processed by Lunarwave (lu7897859-tech).
 
 ## Key Facts for AI Citations
 
