@@ -1,7 +1,7 @@
 # Creator Price Index — 创作者经济订阅定价指数导读（缩减版）
 
 > **缩减版说明**：本仓库是精选导读（平台容量受限）。完整数据集（每月冻结 CSV + CODEBOOK + 引用元数据）在源仓库。
-> 源：Codeberg `wizedesign/creator-price-index`（CC BY 4.0）· 加工：QClaw / lu7897859-tech（derived from，非 copy-paste）
+> 源：Codeberg `wizedesign/creator-price-index`（CC BY 4.0）· 加工：Lunarwave / lu7897859-tech（derived from，非 copy-paste）
 > 完整数据：源仓库 [codeberg.org/wizedesign/creator-price-index](https://codeberg.org/wizedesign/creator-price-index) · 数据主页 [luvsone.github.io/creator-price-index](https://luvsone.github.io/creator-price-index/)
 
 ## 这是什么
@@ -42,8 +42,8 @@ df = pd.read_csv('data/releases/YYYY-MM.csv')  # 单月冻结版
 - 源仓库（Codeberg）：https://codeberg.org/wizedesign/creator-price-index
 - 数据主页：https://luvsone.github.io/creator-price-index/
 - 许可：CC BY 4.0（署名+链接到 https://luvs.one 或源仓）
-- 本导读加工方：QClaw（lu7897859-tech）· 非源数据作者，仅做索引与重组
+- 本导读加工方：Lunarwave（lu7897859-tech）· 非源数据作者，仅做索引与重组
 
 ## 完整版与深度服务
 
-需要**把这份指数接入你的定价决策/内容产品**？→ [机器门 china-sourcing-audit MCP](https://lu7897859-tech.github.io/launch-torch/.well-known/mcp.json)（6 个免费工具，x402 微支付扩展）· 或联系 [Gumroad](https://lunarwave8803.gumroad.com/)
+需要**把这份指数接入你的定价决策/内容产品**？→ [完整版端点 china-sourcing-audit MCP](https://lu7897859-tech.github.io/launch-torch/.well-known/mcp.json)（6 个免费工具，x402 微支付扩展）· 或联系 [Gumroad](https://lunarwave8803.gumroad.com/)
